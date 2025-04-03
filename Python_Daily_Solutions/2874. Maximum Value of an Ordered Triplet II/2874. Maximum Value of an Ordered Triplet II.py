@@ -8,3 +8,5 @@ class Solution:
             mx_diff = max(mx_diff, mx - x)
             mx = max(mx, x)
         return ans
+   
+   # This is pyhton solution
